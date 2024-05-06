@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_SingletonPattern\M6_SingletonPattern\bin\Debug\net8.0\M6_SingletonPattern.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_SingletonPattern\M6_SingletonPattern\bin\Debug\net8.0\M6_SingletonPattern.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_SingletonPattern\M6_SingletonPattern\bin\Debug\net8.0\M6_SingletonPattern.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_SingletonPattern\M6_SingletonPattern\bin\Debug\net8.0\M6_SingletonPattern.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_SingletonPattern\M6_SingletonPattern\bin\Debug\net8.0\M6_SingletonPattern.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_SingletonPattern\M6_SingletonPattern\obj\Debug\net8.0\M6_SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_SingletonPattern\M6_SingletonPattern\obj\Debug\net8.0\M6_SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_SingletonPattern\M6_SingletonPattern\obj\Debug\net8.0\M6_SingletonPattern.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_SingletonPattern\M6_SingletonPattern\obj\Debug\net8.0\M6_SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_SingletonPattern\M6_SingletonPattern\obj\Debug\net8.0\M6_SingletonPattern.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_SingletonPattern\M6_SingletonPattern\obj\Debug\net8.0\M6_SingletonPattern.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_SingletonPattern\M6_SingletonPattern\obj\Debug\net8.0\refint\M6_SingletonPattern.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_SingletonPattern\M6_SingletonPattern\obj\Debug\net8.0\M6_SingletonPattern.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_SingletonPattern\M6_SingletonPattern\obj\Debug\net8.0\M6_SingletonPattern.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_SingletonPattern\M6_SingletonPattern\obj\Debug\net8.0\ref\M6_SingletonPattern.dll
