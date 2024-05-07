@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("M6_SingletonPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad1a4df5a1bd6c437e1b82e10358f076c5b7a4a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3f3efd4dc75226bc7ed203a5b219fa0de969810")]
 [assembly: System.Reflection.AssemblyProductAttribute("M6_SingletonPattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("M6_SingletonPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

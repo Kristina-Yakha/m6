@@ -7,7 +7,7 @@ namespace M6_SingletonPatternAssignment
     {
         static void Main(string[] args)
         {
-            StandardInterestRate sir = StandardInterestRate.getInstance();
+            StandardInterestRate sir = StandardInterestRate.GetInstance();
             Console.WriteLine("Current Interest Rate default: " + sir.CurrentInterestRate);
             sir.CurrentInterestRate = 0.05m;
             Console.WriteLine("Current Interest Rate changed to: " +sir.CurrentInterestRate);
@@ -16,3 +16,4 @@ namespace M6_SingletonPatternAssignment
 }
 
 
+S

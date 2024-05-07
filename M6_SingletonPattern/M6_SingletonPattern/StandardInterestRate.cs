@@ -28,7 +28,7 @@ namespace M6_SingletonPatternAssignment
         }
 
       
-        public static StandardInterestRate getInstance()
+        public static StandardInterestRate GetInstance()
         {
             return instance;
         }
