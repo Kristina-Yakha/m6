@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdapterExercise\M6_AdapterExercise\bin\Debug\net8.0\M6_AdapterExercise.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdapterExercise\M6_AdapterExercise\bin\Debug\net8.0\M6_AdapterExercise.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdapterExercise\M6_AdapterExercise\bin\Debug\net8.0\M6_AdapterExercise.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdapterExercise\M6_AdapterExercise\bin\Debug\net8.0\M6_AdapterExercise.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdapterExercise\M6_AdapterExercise\bin\Debug\net8.0\M6_AdapterExercise.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdapterExercise\M6_AdapterExercise\obj\Debug\net8.0\M6_AdapterExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdapterExercise\M6_AdapterExercise\obj\Debug\net8.0\M6_AdapterExercise.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdapterExercise\M6_AdapterExercise\obj\Debug\net8.0\M6_AdapterExercise.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdapterExercise\M6_AdapterExercise\obj\Debug\net8.0\M6_AdapterExercise.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdapterExercise\M6_AdapterExercise\obj\Debug\net8.0\M6_AdapterExercise.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdapterExercise\M6_AdapterExercise\obj\Debug\net8.0\M6_AdapterExercise.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdapterExercise\M6_AdapterExercise\obj\Debug\net8.0\refint\M6_AdapterExercise.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdapterExercise\M6_AdapterExercise\obj\Debug\net8.0\M6_AdapterExercise.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdapterExercise\M6_AdapterExercise\obj\Debug\net8.0\M6_AdapterExercise.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdapterExercise\M6_AdapterExercise\obj\Debug\net8.0\ref\M6_AdapterExercise.dll
