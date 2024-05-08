@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_BirthdayCake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECC4D58-DCA4-41AA-9260-174B68C026CD}|M6_BirthdayCake\\M6_BirthdayCake.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_birthdaycake\\m6_birthdaycake\\candles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECC4D58-DCA4-41AA-9260-174B68C026CD}|M6_BirthdayCake\\M6_BirthdayCake.csproj|solutionrelative:m6_birthdaycake\\candles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECC4D58-DCA4-41AA-9260-174B68C026CD}|M6_BirthdayCake\\M6_BirthdayCake.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_birthdaycake\\m6_birthdaycake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECC4D58-DCA4-41AA-9260-174B68C026CD}|M6_BirthdayCake\\M6_BirthdayCake.csproj|solutionrelative:m6_birthdaycake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECC4D58-DCA4-41AA-9260-174B68C026CD}|M6_BirthdayCake\\M6_BirthdayCake.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_birthdaycake\\m6_birthdaycake\\basiccake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECC4D58-DCA4-41AA-9260-174B68C026CD}|M6_BirthdayCake\\M6_BirthdayCake.csproj|solutionrelative:m6_birthdaycake\\basiccake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECC4D58-DCA4-41AA-9260-174B68C026CD}|M6_BirthdayCake\\M6_BirthdayCake.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_birthdaycake\\m6_birthdaycake\\frosting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECC4D58-DCA4-41AA-9260-174B68C026CD}|M6_BirthdayCake\\M6_BirthdayCake.csproj|solutionrelative:m6_birthdaycake\\frosting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECC4D58-DCA4-41AA-9260-174B68C026CD}|M6_BirthdayCake\\M6_BirthdayCake.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_birthdaycake\\m6_birthdaycake\\icake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECC4D58-DCA4-41AA-9260-174B68C026CD}|M6_BirthdayCake\\M6_BirthdayCake.csproj|solutionrelative:m6_birthdaycake\\icake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECC4D58-DCA4-41AA-9260-174B68C026CD}|M6_BirthdayCake\\M6_BirthdayCake.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_birthdaycake\\m6_birthdaycake\\decorations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECC4D58-DCA4-41AA-9260-174B68C026CD}|M6_BirthdayCake\\M6_BirthdayCake.csproj|solutionrelative:m6_birthdaycake\\decorations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Candles.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_BirthdayCake\\M6_BirthdayCake\\Candles.cs",
+              "RelativeDocumentMoniker": "M6_BirthdayCake\\Candles.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_BirthdayCake\\M6_BirthdayCake\\Candles.cs",
+              "RelativeToolTip": "M6_BirthdayCake\\Candles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:28:49.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frosting.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_BirthdayCake\\M6_BirthdayCake\\Frosting.cs",
+              "RelativeDocumentMoniker": "M6_BirthdayCake\\Frosting.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_BirthdayCake\\M6_BirthdayCake\\Frosting.cs",
+              "RelativeToolTip": "M6_BirthdayCake\\Frosting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:03:23.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Decorations.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_BirthdayCake\\M6_BirthdayCake\\Decorations.cs",
+              "RelativeDocumentMoniker": "M6_BirthdayCake\\Decorations.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_BirthdayCake\\M6_BirthdayCake\\Decorations.cs",
+              "RelativeToolTip": "M6_BirthdayCake\\Decorations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:56:21.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICake.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_BirthdayCake\\M6_BirthdayCake\\ICake.cs",
+              "RelativeDocumentMoniker": "M6_BirthdayCake\\ICake.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_BirthdayCake\\M6_BirthdayCake\\ICake.cs",
+              "RelativeToolTip": "M6_BirthdayCake\\ICake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:52:33.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasicCake.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_BirthdayCake\\M6_BirthdayCake\\BasicCake.cs",
+              "RelativeDocumentMoniker": "M6_BirthdayCake\\BasicCake.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_BirthdayCake\\M6_BirthdayCake\\BasicCake.cs",
+              "RelativeToolTip": "M6_BirthdayCake\\BasicCake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:43:38.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_BirthdayCake\\M6_BirthdayCake\\Program.cs",
+              "RelativeDocumentMoniker": "M6_BirthdayCake\\Program.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_BirthdayCake\\M6_BirthdayCake\\Program.cs",
+              "RelativeToolTip": "M6_BirthdayCake\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:42:22.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

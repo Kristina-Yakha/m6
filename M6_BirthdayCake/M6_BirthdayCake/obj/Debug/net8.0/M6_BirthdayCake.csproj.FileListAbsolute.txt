@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirthdayCake\M6_BirthdayCake\bin\Debug\net8.0\M6_BirthdayCake.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirthdayCake\M6_BirthdayCake\bin\Debug\net8.0\M6_BirthdayCake.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirthdayCake\M6_BirthdayCake\bin\Debug\net8.0\M6_BirthdayCake.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirthdayCake\M6_BirthdayCake\bin\Debug\net8.0\M6_BirthdayCake.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirthdayCake\M6_BirthdayCake\bin\Debug\net8.0\M6_BirthdayCake.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirthdayCake\M6_BirthdayCake\obj\Debug\net8.0\M6_BirthdayCake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirthdayCake\M6_BirthdayCake\obj\Debug\net8.0\M6_BirthdayCake.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirthdayCake\M6_BirthdayCake\obj\Debug\net8.0\M6_BirthdayCake.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirthdayCake\M6_BirthdayCake\obj\Debug\net8.0\M6_BirthdayCake.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirthdayCake\M6_BirthdayCake\obj\Debug\net8.0\M6_BirthdayCake.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirthdayCake\M6_BirthdayCake\obj\Debug\net8.0\M6_BirthdayCake.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirthdayCake\M6_BirthdayCake\obj\Debug\net8.0\refint\M6_BirthdayCake.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirthdayCake\M6_BirthdayCake\obj\Debug\net8.0\M6_BirthdayCake.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirthdayCake\M6_BirthdayCake\obj\Debug\net8.0\M6_BirthdayCake.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirthdayCake\M6_BirthdayCake\obj\Debug\net8.0\ref\M6_BirthdayCake.dll
