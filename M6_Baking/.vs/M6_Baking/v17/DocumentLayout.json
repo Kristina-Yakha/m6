@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Baking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D33F78A4-E270-4BF6-9779-49D4DC4F0D37}|M6_Baking\\M6_Baking.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_baking\\m6_baking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33F78A4-E270-4BF6-9779-49D4DC4F0D37}|M6_Baking\\M6_Baking.csproj|solutionrelative:m6_baking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33F78A4-E270-4BF6-9779-49D4DC4F0D37}|M6_Baking\\M6_Baking.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_baking\\m6_baking\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33F78A4-E270-4BF6-9779-49D4DC4F0D37}|M6_Baking\\M6_Baking.csproj|solutionrelative:m6_baking\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33F78A4-E270-4BF6-9779-49D4DC4F0D37}|M6_Baking\\M6_Baking.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_baking\\m6_baking\\quiche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33F78A4-E270-4BF6-9779-49D4DC4F0D37}|M6_Baking\\M6_Baking.csproj|solutionrelative:m6_baking\\quiche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33F78A4-E270-4BF6-9779-49D4DC4F0D37}|M6_Baking\\M6_Baking.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_baking\\m6_baking\\bakinginstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33F78A4-E270-4BF6-9779-49D4DC4F0D37}|M6_Baking\\M6_Baking.csproj|solutionrelative:m6_baking\\bakinginstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quiche.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Baking\\M6_Baking\\Quiche.cs",
+              "RelativeDocumentMoniker": "M6_Baking\\Quiche.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Baking\\M6_Baking\\Quiche.cs",
+              "RelativeToolTip": "M6_Baking\\Quiche.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:21:43.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Baking\\M6_Baking\\Pizza.cs",
+              "RelativeDocumentMoniker": "M6_Baking\\Pizza.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Baking\\M6_Baking\\Pizza.cs",
+              "RelativeToolTip": "M6_Baking\\Pizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:05:24.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BakingInstruction.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Baking\\M6_Baking\\BakingInstruction.cs",
+              "RelativeDocumentMoniker": "M6_Baking\\BakingInstruction.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Baking\\M6_Baking\\BakingInstruction.cs",
+              "RelativeToolTip": "M6_Baking\\BakingInstruction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:59:17.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Baking\\M6_Baking\\Program.cs",
+              "RelativeDocumentMoniker": "M6_Baking\\Program.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Baking\\M6_Baking\\Program.cs",
+              "RelativeToolTip": "M6_Baking\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:57:45.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
