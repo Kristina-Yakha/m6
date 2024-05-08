@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdCampaigns\M6_AdCampaigns\bin\Debug\net8.0\M6_AdCampaigns.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdCampaigns\M6_AdCampaigns\bin\Debug\net8.0\M6_AdCampaigns.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdCampaigns\M6_AdCampaigns\bin\Debug\net8.0\M6_AdCampaigns.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdCampaigns\M6_AdCampaigns\bin\Debug\net8.0\M6_AdCampaigns.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdCampaigns\M6_AdCampaigns\bin\Debug\net8.0\M6_AdCampaigns.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdCampaigns\M6_AdCampaigns\obj\Debug\net8.0\M6_AdCampaigns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdCampaigns\M6_AdCampaigns\obj\Debug\net8.0\M6_AdCampaigns.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdCampaigns\M6_AdCampaigns\obj\Debug\net8.0\M6_AdCampaigns.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdCampaigns\M6_AdCampaigns\obj\Debug\net8.0\M6_AdCampaigns.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdCampaigns\M6_AdCampaigns\obj\Debug\net8.0\M6_AdCampaigns.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdCampaigns\M6_AdCampaigns\obj\Debug\net8.0\M6_AdCampaigns.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdCampaigns\M6_AdCampaigns\obj\Debug\net8.0\refint\M6_AdCampaigns.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdCampaigns\M6_AdCampaigns\obj\Debug\net8.0\M6_AdCampaigns.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdCampaigns\M6_AdCampaigns\obj\Debug\net8.0\M6_AdCampaigns.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_AdCampaigns\M6_AdCampaigns\obj\Debug\net8.0\ref\M6_AdCampaigns.dll
