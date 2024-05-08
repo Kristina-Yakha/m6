@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_CharacterCreator\M6_CharacterCreator\bin\Debug\net8.0\M6_Recipe.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_CharacterCreator\M6_CharacterCreator\bin\Debug\net8.0\M6_Recipe.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_CharacterCreator\M6_CharacterCreator\bin\Debug\net8.0\M6_Recipe.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_CharacterCreator\M6_CharacterCreator\bin\Debug\net8.0\M6_Recipe.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_CharacterCreator\M6_CharacterCreator\bin\Debug\net8.0\M6_Recipe.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_CharacterCreator\M6_CharacterCreator\obj\Debug\net8.0\M6_Recipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_CharacterCreator\M6_CharacterCreator\obj\Debug\net8.0\M6_Recipe.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_CharacterCreator\M6_CharacterCreator\obj\Debug\net8.0\M6_Recipe.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_CharacterCreator\M6_CharacterCreator\obj\Debug\net8.0\M6_Recipe.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_CharacterCreator\M6_CharacterCreator\obj\Debug\net8.0\M6_Recipe.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_CharacterCreator\M6_CharacterCreator\obj\Debug\net8.0\M6_Recipe.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_CharacterCreator\M6_CharacterCreator\obj\Debug\net8.0\refint\M6_Recipe.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_CharacterCreator\M6_CharacterCreator\obj\Debug\net8.0\M6_Recipe.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_CharacterCreator\M6_CharacterCreator\obj\Debug\net8.0\M6_Recipe.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_CharacterCreator\M6_CharacterCreator\obj\Debug\net8.0\ref\M6_Recipe.dll

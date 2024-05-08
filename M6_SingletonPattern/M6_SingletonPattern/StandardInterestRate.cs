@@ -8,7 +8,7 @@ namespace M6_SingletonPatternAssignment
         private static readonly StandardInterestRate instance = new StandardInterestRate();
         private decimal currentInterestRate = 0.03m;
 
-        public decimal CurrentInterestRate 
+        public decimal CurrentInterestRate
         {
             get
             {

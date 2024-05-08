@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_AdapterExercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{912B923A-A7C2-48EC-ACC8-C6569E766A96}|M6_AdapterExercise\\M6_AdapterExercise.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_adapterexercise\\m6_adapterexercise\\serveradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{912B923A-A7C2-48EC-ACC8-C6569E766A96}|M6_AdapterExercise\\M6_AdapterExercise.csproj|solutionrelative:m6_adapterexercise\\serveradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{912B923A-A7C2-48EC-ACC8-C6569E766A96}|M6_AdapterExercise\\M6_AdapterExercise.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_adapterexercise\\m6_adapterexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{912B923A-A7C2-48EC-ACC8-C6569E766A96}|M6_AdapterExercise\\M6_AdapterExercise.csproj|solutionrelative:m6_adapterexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{912B923A-A7C2-48EC-ACC8-C6569E766A96}|M6_AdapterExercise\\M6_AdapterExercise.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_adapterexercise\\m6_adapterexercise\\googlemailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{912B923A-A7C2-48EC-ACC8-C6569E766A96}|M6_AdapterExercise\\M6_AdapterExercise.csproj|solutionrelative:m6_adapterexercise\\googlemailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{912B923A-A7C2-48EC-ACC8-C6569E766A96}|M6_AdapterExercise\\M6_AdapterExercise.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_adapterexercise\\m6_adapterexercise\\serveradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912B923A-A7C2-48EC-ACC8-C6569E766A96}|M6_AdapterExercise\\M6_AdapterExercise.csproj|solutionrelative:m6_adapterexercise\\serveradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{912B923A-A7C2-48EC-ACC8-C6569E766A96}|M6_AdapterExercise\\M6_AdapterExercise.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_adapterexercise\\m6_adapterexercise\\imailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{912B923A-A7C2-48EC-ACC8-C6569E766A96}|M6_AdapterExercise\\M6_AdapterExercise.csproj|solutionrelative:m6_adapterexercise\\imailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912B923A-A7C2-48EC-ACC8-C6569E766A96}|M6_AdapterExercise\\M6_AdapterExercise.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_adapterexercise\\m6_adapterexercise\\googlemailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912B923A-A7C2-48EC-ACC8-C6569E766A96}|M6_AdapterExercise\\M6_AdapterExercise.csproj|solutionrelative:m6_adapterexercise\\googlemailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ServerAdapter.cs",
               "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_AdapterExercise\\M6_AdapterExercise\\ServerAdapter.cs",
               "RelativeDocumentMoniker": "M6_AdapterExercise\\ServerAdapter.cs",
               "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_AdapterExercise\\M6_AdapterExercise\\ServerAdapter.cs",
               "RelativeToolTip": "M6_AdapterExercise\\ServerAdapter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAFAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T12:01:25.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IMailServer.cs",
               "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_AdapterExercise\\M6_AdapterExercise\\IMailServer.cs",
               "RelativeDocumentMoniker": "M6_AdapterExercise\\IMailServer.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GoogleMailServer.cs",
               "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_AdapterExercise\\M6_AdapterExercise\\GoogleMailServer.cs",
               "RelativeDocumentMoniker": "M6_AdapterExercise\\GoogleMailServer.cs",
@@ -64,18 +64,17 @@
               "RelativeToolTip": "M6_AdapterExercise\\GoogleMailServer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T11:52:25.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T11:52:25.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_AdapterExercise\\M6_AdapterExercise\\Program.cs",
               "RelativeDocumentMoniker": "M6_AdapterExercise\\Program.cs",
               "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_AdapterExercise\\M6_AdapterExercise\\Program.cs",
               "RelativeToolTip": "M6_AdapterExercise\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T11:48:47.843Z",
               "EditorCaption": ""

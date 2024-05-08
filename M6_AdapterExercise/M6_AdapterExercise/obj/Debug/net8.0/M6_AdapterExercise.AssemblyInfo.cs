@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("M6_AdapterExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3f3efd4dc75226bc7ed203a5b219fa0de969810")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37cd56ecf3f987517d672bb4721850aa52602877")]
 [assembly: System.Reflection.AssemblyProductAttribute("M6_AdapterExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("M6_AdapterExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

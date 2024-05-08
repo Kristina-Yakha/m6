@@ -16,4 +16,4 @@ namespace M6_SingletonPatternAssignment
 }
 
 
-S
+SOne
