@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirdDiary\M6_BirdDiary\bin\Debug\net8.0\M6_BirdDiary.exe
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirdDiary\M6_BirdDiary\bin\Debug\net8.0\M6_BirdDiary.deps.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirdDiary\M6_BirdDiary\bin\Debug\net8.0\M6_BirdDiary.runtimeconfig.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirdDiary\M6_BirdDiary\bin\Debug\net8.0\M6_BirdDiary.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirdDiary\M6_BirdDiary\bin\Debug\net8.0\M6_BirdDiary.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirdDiary\M6_BirdDiary\obj\Debug\net8.0\M6_BirdDiary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirdDiary\M6_BirdDiary\obj\Debug\net8.0\M6_BirdDiary.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirdDiary\M6_BirdDiary\obj\Debug\net8.0\M6_BirdDiary.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirdDiary\M6_BirdDiary\obj\Debug\net8.0\M6_BirdDiary.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirdDiary\M6_BirdDiary\obj\Debug\net8.0\M6_BirdDiary.sourcelink.json
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirdDiary\M6_BirdDiary\obj\Debug\net8.0\M6_BirdDiary.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirdDiary\M6_BirdDiary\obj\Debug\net8.0\refint\M6_BirdDiary.dll
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirdDiary\M6_BirdDiary\obj\Debug\net8.0\M6_BirdDiary.pdb
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirdDiary\M6_BirdDiary\obj\Debug\net8.0\M6_BirdDiary.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\yakha\GIT\m6\M6_BirdDiary\M6_BirdDiary\obj\Debug\net8.0\ref\M6_BirdDiary.dll
