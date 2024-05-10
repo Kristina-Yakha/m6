@@ -24,14 +24,17 @@ namespace Mediator
             // Ensure the user does not receive their own message
             if (u != user)
             {
-                u.ReceiveMessage(message);
+                u.ReceiveMessage(message, user);
             }
         }
     }
 
-     public void SendPrivateMessage(string message,User user, User recipient)
+     public void SendPrivateMessage(string message,User sender, User recipient)
         {
 
+                        
+            recipient.ReceiveMessage(message,sender);
+            /*
             bool inList = userList.Exists(x => x == recipient);
 
             if (!inList || recipient == null)
@@ -46,7 +49,7 @@ namespace Mediator
             {
                 userList.Find(x => x == recipient).ReceiveMessage(message);
             }
-
+            */
  
         }
 

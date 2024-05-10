@@ -18,11 +18,11 @@ class Program
         chatroom.AddUser(user4);
         
 
-        user3.SendMessage("Hello, everyone!");  
+        //user3.SendMessage("Hello, everyone!");  
 
         chatroom.AddUser(user5);
         user5.SendMessage("hi");
-        user5.SendPrivateMessage("hi", user2);
+        //user5.SendPrivateMessage("hi", user2);
 
         Console.ReadKey();
     }

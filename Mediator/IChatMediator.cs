@@ -5,7 +5,8 @@ namespace Mediator
     {
         void SendMessage(string message, User user);
 
-        void SendPrivateMessage(string message, User user, User recipient);
+        void SendPrivateMessage(string message,User sender, User recipient);
+   
         void AddUser(User user);
     }
 }
