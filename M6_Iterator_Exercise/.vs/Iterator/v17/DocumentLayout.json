@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Iterator_Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_iterator_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_iterator_exercise\\ichanneliterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|solutionrelative:ichanneliterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_iterator_exercise\\ichannelcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|solutionrelative:ichannelcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_iterator_exercise\\channeliteratornormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|solutionrelative:channeliteratornormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_iterator_exercise\\carradio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|solutionrelative:carradio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_iterator_exercise\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C53479-9576-47AE-9798-D6BE111C3322}|Iterator.csproj|solutionrelative:channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Iterator_Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Iterator_Exercise\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:22:09.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IChannelIterator.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Iterator_Exercise\\IChannelIterator.cs",
+              "RelativeDocumentMoniker": "IChannelIterator.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Iterator_Exercise\\IChannelIterator.cs",
+              "RelativeToolTip": "IChannelIterator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:22:03.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IChannelCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Iterator_Exercise\\IChannelCollection.cs",
+              "RelativeDocumentMoniker": "IChannelCollection.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Iterator_Exercise\\IChannelCollection.cs",
+              "RelativeToolTip": "IChannelCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:21:59.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Channel.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Iterator_Exercise\\Channel.cs",
+              "RelativeDocumentMoniker": "Channel.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Iterator_Exercise\\Channel.cs",
+              "RelativeToolTip": "Channel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:19:18.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChannelIteratorNormal.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Iterator_Exercise\\ChannelIteratorNormal.cs",
+              "RelativeDocumentMoniker": "ChannelIteratorNormal.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Iterator_Exercise\\ChannelIteratorNormal.cs",
+              "RelativeToolTip": "ChannelIteratorNormal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:18:12.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarRadio.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Iterator_Exercise\\CarRadio.cs",
+              "RelativeDocumentMoniker": "CarRadio.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Iterator_Exercise\\CarRadio.cs",
+              "RelativeToolTip": "CarRadio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:15:54.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

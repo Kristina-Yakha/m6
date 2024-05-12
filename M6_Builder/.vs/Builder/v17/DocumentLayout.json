@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Builder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6ABEBB-8F89-4CA1-8642-D79D5A2E064D}|Builder.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_builder\\civilengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6ABEBB-8F89-4CA1-8642-D79D5A2E064D}|Builder.csproj|solutionrelative:civilengineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6ABEBB-8F89-4CA1-8642-D79D5A2E064D}|Builder.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_builder\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6ABEBB-8F89-4CA1-8642-D79D5A2E064D}|Builder.csproj|solutionrelative:house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6ABEBB-8F89-4CA1-8642-D79D5A2E064D}|Builder.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_builder\\woodhousebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6ABEBB-8F89-4CA1-8642-D79D5A2E064D}|Builder.csproj|solutionrelative:woodhousebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6ABEBB-8F89-4CA1-8642-D79D5A2E064D}|Builder.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_builder\\stonehousebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6ABEBB-8F89-4CA1-8642-D79D5A2E064D}|Builder.csproj|solutionrelative:stonehousebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6ABEBB-8F89-4CA1-8642-D79D5A2E064D}|Builder.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_builder\\housebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6ABEBB-8F89-4CA1-8642-D79D5A2E064D}|Builder.csproj|solutionrelative:housebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6ABEBB-8F89-4CA1-8642-D79D5A2E064D}|Builder.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\m6_builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6ABEBB-8F89-4CA1-8642-D79D5A2E064D}|Builder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "House.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Builder\\House.cs",
+              "RelativeDocumentMoniker": "House.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Builder\\House.cs",
+              "RelativeToolTip": "House.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:18:44.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HouseBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Builder\\HouseBuilder.cs",
+              "RelativeDocumentMoniker": "HouseBuilder.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Builder\\HouseBuilder.cs",
+              "RelativeToolTip": "HouseBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:18:42.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoneHouseBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Builder\\StoneHouseBuilder.cs",
+              "RelativeDocumentMoniker": "StoneHouseBuilder.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Builder\\StoneHouseBuilder.cs",
+              "RelativeToolTip": "StoneHouseBuilder.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:18:40.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CivilEngineer.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Builder\\CivilEngineer.cs",
+              "RelativeDocumentMoniker": "CivilEngineer.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Builder\\CivilEngineer.cs",
+              "RelativeToolTip": "CivilEngineer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:16:46.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WoodHouseBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Builder\\WoodHouseBuilder.cs",
+              "RelativeDocumentMoniker": "WoodHouseBuilder.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Builder\\WoodHouseBuilder.cs",
+              "RelativeToolTip": "WoodHouseBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:15:53.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\M6_Builder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:15:39.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
