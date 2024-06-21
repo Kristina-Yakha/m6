@@ -15,7 +15,7 @@ namespace DecoratorExercise
         public string Name { get { return name; } }
         public string Flavour { get { return flavour; } }
 
-        public int NumberOfCandles { get { return numberOfCandles; } }
+        public int NumberOfCandles { get { return numberOfCandles+1; } }
 
         public CakeWithCandles(ICake cake, int numberOfCandles) : base(cake)
         {
